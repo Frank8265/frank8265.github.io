@@ -7,8 +7,9 @@
 
 		
 	#welcome{
-	height: 50vh;
+	
 	padding-top: 50px;
+		padding-bottom: 50px;
 	background-image: url('drop2.jpg');
   background-size: cover;
 	}
@@ -31,7 +32,7 @@
 		
 		
 		#about{
-		
+		padding-top: 20px;
 		background-color: #1a1a1a;
 		padding-bottom: 20px;
 		}
@@ -50,9 +51,10 @@
 	
 		
 		#projects {
-  padding-top: 50px;
+  padding-top: 30px;
   background-image: url("drop2.jpg");
   background-size: cover;
+			padding-bottom: 25px;
             
 			
 		}
